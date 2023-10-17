@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @invisiblemonki
 - 👀 I’m interested in ... Manjaro Linux, ChromeOS, science and world building.
-- 🌱 I’m currently learning ... Ruby, cause it's fun. And Haml, cause it's even funner!
-- 💞️ I’m looking to collaborate on ... Beats. I only keep Windows 'cause of FL Studio.
+- 🌱 I’m currently learning ... Ruby, cause it's fun. And JavaScript, because I have to. Boo. 
+- 💞️ I’m looking to collaborate on ... Beats. FL studio works in WINE, so no more Windows! Yey! 
 - 📫 How to reach me ...invisiblemonki@ >>> outlook,gmail,instagram,twitter,discord,telegram,etc.
 
 <!---
